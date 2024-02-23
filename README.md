@@ -8,7 +8,7 @@ Check out the live demo [here](https://game-n6fml2xz6-antquas-projects.vercel.ap
 
 ## Screenshots
 
-![Screenshot](src\assets\webpage-screenshot.png)
+![Screenshot](src/assets/webpage-screenshot.png)
 
 ## Features
 
