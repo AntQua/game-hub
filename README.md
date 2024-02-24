@@ -2,9 +2,9 @@
 
 Game Hub is a Video Game Discovery App build with React, TypeScript and Vite, utilizing the RAWG API to fetch game data. It aims to mimic the frontend and game display style of RAWG's website.
 
-## Live Demo
+## Live Site
 
-Check out the live demo [here](https://game-n6fml2xz6-antquas-projects.vercel.app/).
+Check out the live Webpage [here](https://game-hub-iota-seven-72.vercel.app/).
 
 ## Screenshots
 
